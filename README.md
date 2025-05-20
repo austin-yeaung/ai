@@ -1,2 +1,2 @@
 # ai
-AI Project
+AI Project - provide AI solution.
